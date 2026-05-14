@@ -33,12 +33,6 @@ LeadsScraper 2 is a local-first Windows desktop application built for 3D animati
 
 ---
 
-## Screenshots
-
-> *(Add screenshots here)*
-
----
-
 ## Requirements
 
 - Windows 10 / 11
