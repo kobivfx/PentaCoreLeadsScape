@@ -1,0 +1,43 @@
+# ── Runtime data (contains DB + encrypted secrets) ──────────────────────────
+data/
+
+# ── Build & distribution outputs ─────────────────────────────────────────────
+build/
+dist/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── PyInstaller ───────────────────────────────────────────────────────────────
+*.spec
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Secrets & keys (extra safety net) ────────────────────────────────────────
+.secret_key
+*.key
+*.pem
+*.p12
+.env
+.env.*
+secrets.json
+credentials.json
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+.DS_Store
