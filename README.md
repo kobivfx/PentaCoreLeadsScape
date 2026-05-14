@@ -51,7 +51,7 @@ LeadsScraper 2 is a local-first Windows desktop application built for 3D animati
 ## Installation
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/LeadsScraper2.git
+git clone https://github.com/kobivfx/PentaCoreLeadsScape.git
 cd LeadsScraper2
 pip install -r requirements.txt
 ```
