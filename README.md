@@ -1,4 +1,4 @@
-# LeadsScraper 2
+# LeadsScraper
 
 > **AI-powered lead discovery desktop app for 3D animation studios.**  
 > Automatically scrapes the web, pre-filters with LLM, scores leads, and builds a client database — all running locally on Windows.
